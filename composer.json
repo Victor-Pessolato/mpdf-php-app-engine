@@ -1,0 +1,12 @@
+{
+    "name": "pessolato/php-pdf",
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    },
+    "authors": [
+        {
+            "name": "Victor-Pessolato",
+            "email": "victor.pessolato@gmail.com"
+        }
+    ]
+}
